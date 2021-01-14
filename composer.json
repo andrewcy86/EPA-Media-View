@@ -1,0 +1,19 @@
+{
+  "name": "patt/epa-media-view",
+  "description": "EPA Media PATT Extension",
+  "keywords": ["wordpress", "media", "PATT", "FOIA", "Litigation", "Congressional", "Box List"],
+  "homepage": "https://epa.gov",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Andrew Yuen",
+      "email": "yuen.andrew@epa.gov",
+      "homepage": "https://epa.gov"
+    }
+  ],
+  "type": "wordpress-plugin",
+  "require": {
+    "php": ">=5.3.2",
+    "composer/installers": "v1.9.0"
+  }
+}
